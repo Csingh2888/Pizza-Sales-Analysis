@@ -52,7 +52,8 @@ KPI definitions:
   
 📈 Power BI Dashboards
 
-1️⃣ Pizza Sales Overview
+### Dashboard 1 — Pizza Sales Overview
+
 ![Pizza Sales Overview](Dashboard_Screenshots/01_Sales_Overview.png)
 
 Objective: Track overall sales performance and ordering patterns.
@@ -65,7 +66,8 @@ Visualizations:
 - Revenue contribution by pizza size
 Business value: Provides an at-a-glance view of sales KPIs and helps identify changes in demand and the relative contribution of different pizza categories and sizes.
 
-2️⃣ Pizza Performance Analysis
+### Dashboard 2 — Pizza Performance Analysis
+
 ![Pizza Performance Analysis](Dashboard_Screenshots/02_Pizza_Performance.png)
 
 Objective: Compare the best- and lowest-performing pizzas across different measures.
