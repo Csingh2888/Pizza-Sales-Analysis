@@ -54,7 +54,7 @@ KPI definitions:
 
 ### Dashboard 1 — Pizza Sales Overview
 
-![Pizza Sales Overview](Dashboard_Screenshots/01_Sales_Overview.png)
+![Pizza Sales Overview](Dashboard_Screenshots/01_Sales_Overview.png.png)
 
 Objective: Track overall sales performance and ordering patterns.
 
@@ -68,7 +68,7 @@ Business value: Provides an at-a-glance view of sales KPIs and helps identify ch
 
 ### Dashboard 2 — Pizza Performance Analysis
 
-![Pizza Performance Analysis](Dashboard_Screenshots/02_Pizza_Performance.png)
+![Pizza Performance Analysis](Dashboard_Screenshots/02_Pizza_Performance.png.png)
 
 Objective: Compare the best- and lowest-performing pizzas across different measures.
 
